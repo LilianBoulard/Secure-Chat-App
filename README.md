@@ -2,7 +2,7 @@
 
 SCA was a originaly a personnal project.
 \
-It became a university project in october 2020, as part of my Bachelor's Degree.
+It became a community project in october 2020.
 \
 This repository remains only for historical reasons.
 
